@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="Test_Project_1Repository"
+id="9a18910b-28d9-406c-a7be-6dfd898cf270"
+rxversion="7.1">
+  <codegen
+  classname="Test_Project_1Repository"
+  namespace="Test_Project_1"/>
+  <rootfolder
+  name="Root"
+  id="2ff1cc81-f727-4ef2-a4ee-f52fdf906ecc"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
